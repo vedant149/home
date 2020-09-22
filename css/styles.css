@@ -83,6 +83,7 @@ h3{
 .head{
 	font-size: 5em;
 	margin-bottom: 0;
+	line-height: 2;
 }
 .hobbies{
 	display: inline-block;
